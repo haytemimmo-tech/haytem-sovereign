@@ -2,6 +2,10 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://haytemsovereign.com"),
+alternates: {
+  canonical: "/",
+},
   title: 'Hassaneine Haytem | HAYTEM SOVEREIGN — Global Market Architect & Private Wealth Advisor',
   description:
     'Hassaneine Haytem is a sovereign-level strategic advisor operating at the intersection of institutional advisory, private wealth architecture, and emerging Eldorado real estate intelligence. Where Capital Becomes Legacy.',

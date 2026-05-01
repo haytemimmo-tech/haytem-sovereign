@@ -6,6 +6,21 @@ export const metadata: Metadata = {
 alternates: {
   canonical: "/",
 },
+  openGraph: {
+  title: "Hassaneine Haytem | HAYTEM SOVEREIGN",
+  description: "Global Market Architect & Sovereign-Level Strategic Advisor.",
+  url: "https://haytemsovereign.com",
+  siteName: "HAYTEM SOVEREIGN",
+  images: [
+    {
+      url: "https://haytemsovereign.com/og-image.jpg",
+      width: 1200,
+      height: 630,
+    },
+  ],
+  locale: "en_US",
+  type: "website",
+},
   title: 'Hassaneine Haytem | HAYTEM SOVEREIGN — Global Market Architect & Private Wealth Advisor',
   description:
     'Hassaneine Haytem is a sovereign-level strategic advisor operating at the intersection of institutional advisory, private wealth architecture, and emerging Eldorado real estate intelligence. Where Capital Becomes Legacy.',

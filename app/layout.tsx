@@ -52,14 +52,7 @@ alternates: {
   authors: [{ name: 'Hassaneine Haytem' }],
   creator: 'Hassaneine Haytem',
   publisher: 'HAYTEM SOVEREIGN',
-  openGraph: {
-    title: 'HAYTEM SOVEREIGN | Where Capital Becomes Legacy.',
-    description:
-      'Strategic early-entry capital deployment into future high-yield zones. Emerging Eldorado Investment Intelligence. Before the Market Moves.',
-    type: 'website',
-    locale: 'en_US',
-    siteName: 'HAYTEM SOVEREIGN',
-  },
+  
   twitter: {
     card: 'summary_large_image',
     title: 'HAYTEM SOVEREIGN | Where Capital Becomes Legacy.',
